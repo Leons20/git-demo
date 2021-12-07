@@ -1,6 +1,6 @@
 # Markdown vježba
 
-Ovo je dokument :memo: koji prezentira moj ```C++``` kod :smiley:
+Ovo je dokument :memo: koji prezentira moj ```**C++**``` kod :smiley:
 
 ## Program
 
